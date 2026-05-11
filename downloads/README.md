@@ -1,10 +1,7 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [tele-mirror-win-x64](./tele-mirror-win-x64)
+- [wordpress-seo.27.5](./wordpress-seo.27.5)
 
 ---
 
